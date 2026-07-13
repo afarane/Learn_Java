@@ -3,3 +3,4 @@
 .settings/org.eclipse.jdt.apt.core.prefs
 / .classpath
 /.DS_Store
+*.class
