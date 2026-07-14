@@ -1,4 +1,4 @@
-package com.java.collections;
+package tutorials.com.java.collections;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

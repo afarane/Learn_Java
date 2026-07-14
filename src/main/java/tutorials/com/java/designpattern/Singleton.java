@@ -1,4 +1,4 @@
-package com.java.designpattern;
+package tutorials.com.java.designpattern;
 
 public class Singleton {
 

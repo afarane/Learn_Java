@@ -1,4 +1,4 @@
-package com.java.numbers;
+package tutorials.com.java.numbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -4,7 +4,7 @@
 		{
 			"label": "Run Array_SortAlphaNum_Num.java",
 			"type": "shell",
-			"command": "javac src\\main\\java\\tutorials\\com\\java\\array\\Array_SortAlphaNum_Num.java && java -cp src/main/java/tutorials com.java.array.Array_SortAlphaNum_Num",
+			"command": "javac src\\main\\java\\tutorials\\com\\java\\array\\Array_SortAlphaNum_Num.java && java -cp src/main/java tutorials.com.java.array.Array_SortAlphaNum_Num",
 			"problemMatcher": [],
 			"group": "build"
 		},
@@ -18,7 +18,7 @@
 		{
 			"label": "Run Array_SortAlphaNum_Num.java",
 			"type": "shell",
-			"command": "java -cp src/main/java/tutorials com.java.array.Array_SortAlphaNum_Num",
+			"command": "java -cp src/main/java tutorials.com.java.array.Array_SortAlphaNum_Num",
 			"problemMatcher": [],
 			"group": "test"
 		}

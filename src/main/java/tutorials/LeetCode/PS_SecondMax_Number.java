@@ -1,4 +1,4 @@
-package LeetCode;
+package tutorials.LeetCode;
 
 public class PS_SecondMax_Number {
 

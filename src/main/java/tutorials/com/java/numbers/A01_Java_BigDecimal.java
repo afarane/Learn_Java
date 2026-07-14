@@ -1,4 +1,4 @@
-package com.java.numbers;
+package tutorials.com.java.numbers;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

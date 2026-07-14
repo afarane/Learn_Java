@@ -1,4 +1,4 @@
-package com.java.basic;
+package tutorials.com.java.basic;
 
 public class _07_If_Else {
 	

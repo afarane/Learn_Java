@@ -1,4 +1,4 @@
-package com.java.array;
+package tutorials.com.java.array;
 
 //  https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/
 public class Search_in_Rotated_Sorted_Array {

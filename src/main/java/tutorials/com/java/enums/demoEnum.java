@@ -1,4 +1,4 @@
-package com.java.enums;
+package tutorials.com.java.enums;
 
 
 enum Status{

@@ -1,4 +1,4 @@
-package com.java.array;
+package tutorials.com.java.array;
 
 public class Split_Arrat_Largest_Sum {
 

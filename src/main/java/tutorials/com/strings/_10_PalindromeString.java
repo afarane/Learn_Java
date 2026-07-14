@@ -1,4 +1,4 @@
-package com.strings;
+package tutorials.com.strings;
 
 public class _10_PalindromeString {
 

@@ -1,4 +1,4 @@
-package LeetCode;
+package tutorials.LeetCode;
 
 public class LeetCode_1006_factorial {
 

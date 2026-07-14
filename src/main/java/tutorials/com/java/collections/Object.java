@@ -1,4 +1,4 @@
-package com.java.collections;
+package tutorials.com.java.collections;
 
 public class Object {
 

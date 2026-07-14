@@ -3,11 +3,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Test",
+            "name": "Test",
             "request": "launch",
-            "mainClass": "demo.Test",
-            "projectName": "Learn_Java",
-            "cwd": "${workspaceFolder}"
+            "mainClass": "problems.demo.Test",
+            "projectName": "JavaBasics"
         }
     ]
 }

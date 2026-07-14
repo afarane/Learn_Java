@@ -1,4 +1,4 @@
-package hackerrank.java.basic;
+package tutorials.hackerrank.java.basic;
 // Read some unknown  lines of input from stdin(System.in) until you reach EOF; each line of input contains a non-empty String.
 
 // Solution 1 : For loop

@@ -1,4 +1,4 @@
-package com.java.dataStructure;
+package tutorials.com.java.dataStructure;
 
 import java.util.Arrays;
 

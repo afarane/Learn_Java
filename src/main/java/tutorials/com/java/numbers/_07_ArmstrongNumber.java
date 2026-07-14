@@ -1,4 +1,4 @@
-package com.java.numbers;
+package tutorials.com.java.numbers;
 
 public class _07_ArmstrongNumber {
 

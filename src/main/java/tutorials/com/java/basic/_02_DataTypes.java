@@ -1,4 +1,4 @@
-package com.java.basic;
+package tutorials.com.java.basic;
 
 public class _02_DataTypes {
 
@@ -21,4 +21,4 @@ public class _02_DataTypes {
 		System.out.println("Addition Result is : " + result);
 
 	}
-}
+}

@@ -1,4 +1,4 @@
-package com.java.numbers;
+package tutorials.com.java.numbers;
 
 import java.util.ArrayList;
 import java.util.Arrays;

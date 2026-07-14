@@ -1,4 +1,4 @@
-package com.java_oops;
+package tutorials.com.java_oops;
 
 class Student {
 

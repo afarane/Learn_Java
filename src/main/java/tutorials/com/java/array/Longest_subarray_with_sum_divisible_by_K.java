@@ -1,4 +1,4 @@
-package com.java.array;
+package tutorials.com.java.array;
 
 public class Longest_subarray_with_sum_divisible_by_K {
 

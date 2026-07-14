@@ -1,4 +1,4 @@
-package hackerrank.java.basic;
+package tutorials.hackerrank.java.basic;
 import java.io.*;
 import java.util.*;
 

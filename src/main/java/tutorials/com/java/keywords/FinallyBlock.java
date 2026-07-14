@@ -1,4 +1,4 @@
-package com.java.keywords;
+package tutorials.com.java.keywords;
 
 import javax.swing.plaf.basic.BasicSplitPaneDivider;
 
