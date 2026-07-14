@@ -14,7 +14,7 @@ public class TestList {
 		values.add(14);
 		values.add(1,55);
 
-		Iterator it = values.iterator();
+		Iterator<Integer> it = values.iterator();
 		
 		
 		while (it.hasNext()) {

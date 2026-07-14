@@ -9,7 +9,7 @@ public class LinkedListConcept {
 	public static void main(String[] args) {
 		
 		
-		LinkedList list = new LinkedList();
+		LinkedList<Integer> list = new LinkedList<Integer>();
 		list.addLast(10);
 		list.addLast(20);
 		list.addLast(30);

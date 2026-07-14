@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OverloadingAndOverriding",
+            "request": "launch",
+            "mainClass": "tutorials.com.java_oops.OverloadingAndOverriding",
+            "projectName": "JavaBasics"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "problems.demo.Test",

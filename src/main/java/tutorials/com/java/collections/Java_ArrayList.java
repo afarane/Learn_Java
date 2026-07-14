@@ -5,10 +5,11 @@ import java.util.*;
 
 public class Java_ArrayList {
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        
-        ArrayList[] al = new ArrayList[20000];
+
+        ArrayList<Integer>[] al = new ArrayList[20000];
         Scanner scanner = new Scanner(System.in);
         int lists = scanner.nextInt();
         
